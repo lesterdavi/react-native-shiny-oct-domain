@@ -1,0 +1,27 @@
+{
+    "name": "react-native-shiny-oct-domain",
+    "version": "1.0.0",
+    "description": "this is designed for oct domain",
+    "homepage": "https://github.com/lesterdavi/react-native-shiny-oct-domain",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-shiny-oct-domain"
+    ],
+    "author": {
+      "name": "lesterdavi",
+      "email": "lesterdavi@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lesterdavi/react-native-shiny-oct-domain.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
+  
